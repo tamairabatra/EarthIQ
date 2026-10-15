@@ -1,8 +1,5 @@
 # EarthIQ
 
-### Click below to watch the product demo and a full explanation of key features
-
-[![Watch the demo video](https://img.youtube.com/vi/Y1ZXg7mac0A/0.jpg)](https://youtu.be/Y1ZXg7mac0A)
 
 EarthIQ is an intelligent, AI-powered mobile web application designed to help users identify waste, track their environmental impact, and find local recycling and donation centers. 
 
@@ -15,6 +12,10 @@ EarthIQ turns daily habits into a gamified sustainability journey, making it eas
 *   **Eco-Resources Map**: Locate nearby donation centers, recycling hubs, food pantries, and repair shops based on your current location.
 *   **EcoLand Gamification**: Engage with a gamified learning experience where you can complete levels, take trivia challenges, and earn points for your sustainability knowledge.
 *   **Installable PWA**: EarthIQ is a Progressive Web App, meaning you can install it directly on your smartphone's home screen for quick access.
+
+Click below to watch the product demo and a full explanation of key features
+
+[![Watch the demo video](https://img.youtube.com/vi/Y1ZXg7mac0A/0.jpg)](https://youtu.be/Y1ZXg7mac0A)
 
 ## Project Gallery
 
