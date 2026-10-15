@@ -809,7 +809,7 @@ Make the ideas realistic, fun, and eco-friendly!`;
     DISABLE_HMR: process.env.DISABLE_HMR
   });
   // Vite middleware for development
-  if (process.env.NODE_ENV !== "production") {
+  if (process.env.NODE_ENV === "development") {
     const vite = await createViteServer({
       server: {
         middlewareMode: true,
