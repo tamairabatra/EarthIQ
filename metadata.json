@@ -1,0 +1,12 @@
+{
+  "name": "EarthIQ",
+  "description": "An environmental intelligence tool that uses Gemini's vision capabilities to categorize items into recycle, organic, or regular trash.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
