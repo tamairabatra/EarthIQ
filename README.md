@@ -1,5 +1,7 @@
 # EarthIQ
 
+### Click below to watch the product demo and a full explanation of key features
+
 [![Watch the demo video](https://img.youtube.com/vi/Y1ZXg7mac0A/0.jpg)](https://youtu.be/Y1ZXg7mac0A)
 
 EarthIQ is an intelligent, AI-powered mobile web application designed to help users identify waste, track their environmental impact, and find local recycling and donation centers. 
