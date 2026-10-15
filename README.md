@@ -41,5 +41,12 @@ To run this project locally, ensure you have [Node.js](https://nodejs.org/) inst
     npm run dev
     ```
 
----
-*Built with React, Vite, TypeScript, and Tailwind CSS.*
+## Configuration & API Keys
+
+EarthIQ requires certain API keys to function correctly (e.g., Google Maps Platform).
+
+1.  Create a `.env` file in the root directory (based on `.env.example`).
+2.  Add your necessary environment variables, ensuring they are prefixed correctly (e.g., `VITE_GOOGLE_MAPS_PLATFORM_KEY`).
+
+### ⚠️ Security Warning
+**NEVER commit your `.env` file or API keys to version control.** Always use the `.env.example` file to document required variables without exposing your actual credentials.
