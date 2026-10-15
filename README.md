@@ -49,12 +49,36 @@ Click below to watch the product demo and a full explanation of key features
 
 | 1 | 2 | 3 |
 | :--- | :--- | :--- |
-| ![1](public/gallery/1.png) | ![2](public/gallery/2.png) | ![3](public/gallery/3.png) |
-| ![4](public/gallery/4.png) | ![5](public/gallery/5.png) | ![6](public/gallery/6.png) |
-| ![7](public/gallery/7.png) | ![8](public/gallery/8.png) | ![9](public/gallery/9.png) |
-| ![10](public/gallery/10.png) | ![11](public/gallery/11.png) | ![12](public/gallery/12.png) |
-| ![13](public/gallery/13.png) | ![14](public/gallery/14.png) | ![15](public/gallery/15.png) |
-| ![16](public/gallery/16.png) | ![17](public/gallery/17.png) | ![18](public/gallery/18.png) |
+| ![1](gallery/1.png) | ![2](gallery/2.png) | ![3](gallery/3.png) |
+| ![4](gallery/4.png) | ![5](gallery/5.png) | ![6](gallery/6.png) |
+| ![7](gallery/7.png) | ![8](gallery/8.png) | ![9](gallery/9.png) |
+| ![10](gallery/10.png) | ![11](gallery/11.png) | ![12](gallery/12.png) |
+| ![13](gallery/13.png) | ![14](gallery/14.png) | ![15](gallery/15.png) |
+| ![16](gallery/16.png) | ![17](gallery/17.png) | ![18](gallery/18.png) |
+
+## EarthIQ Tech Stack
+A modern, type-safe, AI-powered full-stack application
+
+### 1. Frontend
+- React 19
+- TypeScript
+- Responsive, interactive user interface
+
+### 2. Backend / API
+- Node.js
+- Server-side processing
+- API requests and environment configuration
+
+### 3. AI / Intelligence
+- Google GenAI SDK
+- Google Gemini models
+- Text and image understanding for multi-item scanning, classification, and AI-powered recommendations
+
+### 4. Supporting Services
+- Recharts — data visualization and environmental impact dashboards
+- Google Maps Platform — location-based recycling and donation discovery
+
+![Tech Stack](gallery/tech-stack.png)
 
 ## How to Use
 
