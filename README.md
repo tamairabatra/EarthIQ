@@ -1,5 +1,31 @@
 # EarthIQ
 
+## EarthIQ — Problem, Focus, and Solution
+
+### The Problem
+Every day, reusable and recyclable items end up in landfills—not always because they are trash, but because people don't know what else they can do with them. People need more than recycling instructions; they need help deciding whether to reuse, upcycle, donate, or dispose of an item responsibly. The real problem isn't just waste identification—it's waste prevention.
+
+### EarthIQ's Focus
+EarthIQ is not just a scanning app. It's an AI-driven environmental intelligence platform focused on preventing waste before it reaches the landfill. Instead of simply identifying an item, EarthIQ helps people discover its potential for a second life, take the right action, and understand the environmental impact of their decisions.
+
+### The Solution: Scan → Understand → Decide → Act
+
+**SCAN — Identify**
+AI scans and classifies multiple items at once, identifying what they are and their waste category.
+
+**UNDERSTAND — Discover potential**
+EarthIQ's AI Copilot suggests creative ways to reuse or upcycle items, explains donation options, and provides responsible disposal guidance.
+
+**DECIDE — Choose a better path**
+Users choose the best practical next step: reuse, upcycle, donate, recycle, or dispose responsibly—prioritizing keeping usable items out of landfills.
+
+**ACT — Make an impact**
+Local drop-off locations, Eco Points, challenges, and impact tracking help turn good intentions into real-world action and lasting habits.
+
+### The Vision for a Sustainable Future
+EarthIQ scales individual actions into systemic change. By empowering users to make better daily choices, we transform schools, classrooms, and neighborhoods into conscious communities that actively prevent waste. EarthIQ isn't just an app—it's the catalyst for a world where waste prevention is the new standard.
+
+
 
 EarthIQ is an intelligent, AI-powered mobile web application designed to help users identify waste, track their environmental impact, and find local recycling and donation centers. 
 
@@ -12,6 +38,8 @@ EarthIQ turns daily habits into a gamified sustainability journey, making it eas
 *   **Eco-Resources Map**: Locate nearby donation centers, recycling hubs, food pantries, and repair shops based on your current location.
 *   **EcoLand Gamification**: Engage with a gamified learning experience where you can complete levels, take trivia challenges, and earn points for your sustainability knowledge.
 *   **Installable PWA**: EarthIQ is a Progressive Web App, meaning you can install it directly on your smartphone's home screen for quick access.
+
+## Product Demo
 
 Click below to watch the product demo and a full explanation of key features
 
@@ -38,10 +66,6 @@ Click below to watch the product demo and a full explanation of key features
 ### Tracking Impact & Finding Resources
 1.  Navigate to the **Impact Dashboard** to view your cumulative positive impact on the environment.
 2.  Use the **Map** tab to search for nearby recycling facilities, clothing banks, or donation centers. You can filter by facility type and get driving directions.
-
-### Playing & Learning
-1.  Open the **EcoLand** section.
-2.  Explore different ecological territories, complete trivia quizzes about waste management, and earn XP to level up your environmental knowledge.
 
 ## Development Setup
 
