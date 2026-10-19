@@ -1,5 +1,22 @@
 # EarthIQ
 
+## Product Demo
+
+Click below to watch the product demo and a full explanation of key features
+
+[![Watch the demo video](https://img.youtube.com/vi/Y1ZXg7mac0A/0.jpg)](https://youtu.be/Y1ZXg7mac0A)
+
+## Project Gallery
+
+| 1 | 2 | 3 |
+| :--- | :--- | :--- |
+| ![1](public/gallery/1.png) | ![2](public/gallery/2.png) | ![3](public/gallery/3.png) |
+| ![4](public/gallery/4.png) | ![5](public/gallery/5.png) | ![6](public/gallery/6.png) |
+| ![7](public/gallery/7.png) | ![8](public/gallery/8.png) | ![9](public/gallery/9.png) |
+| ![10](public/gallery/10.png) | ![11](public/gallery/11.png) | ![12](public/gallery/12.png) |
+| ![13](public/gallery/13.png) | ![14](public/gallery/14.png) | ![15](public/gallery/15.png) |
+| ![16](public/gallery/16.png) | ![17](public/gallery/17.png) | ![18](public/gallery/18.png) |
+
 ## EarthIQ — Problem, Focus, and Solution
 
 ### The Problem
@@ -38,23 +55,6 @@ EarthIQ turns daily habits into a gamified sustainability journey, making it eas
 *   **Eco-Resources Map**: Locate nearby donation centers, recycling hubs, food pantries, and repair shops based on your current location.
 *   **EcoLand Gamification**: Engage with a gamified learning experience where you can complete levels, take trivia challenges, and earn points for your sustainability knowledge.
 *   **Installable PWA**: EarthIQ is a Progressive Web App, meaning you can install it directly on your smartphone's home screen for quick access.
-
-## Product Demo
-
-Click below to watch the product demo and a full explanation of key features
-
-[![Watch the demo video](https://img.youtube.com/vi/Y1ZXg7mac0A/0.jpg)](https://youtu.be/Y1ZXg7mac0A)
-
-## Project Gallery
-
-| 1 | 2 | 3 |
-| :--- | :--- | :--- |
-| ![1](public/gallery/1.png) | ![2](public/gallery/2.png) | ![3](public/gallery/3.png) |
-| ![4](public/gallery/4.png) | ![5](public/gallery/5.png) | ![6](public/gallery/6.png) |
-| ![7](public/gallery/7.png) | ![8](public/gallery/8.png) | ![9](public/gallery/9.png) |
-| ![10](public/gallery/10.png) | ![11](public/gallery/11.png) | ![12](public/gallery/12.png) |
-| ![13](public/gallery/13.png) | ![14](public/gallery/14.png) | ![15](public/gallery/15.png) |
-| ![16](public/gallery/16.png) | ![17](public/gallery/17.png) | ![18](public/gallery/18.png) |
 
 ## EarthIQ Tech Stack
 A modern, type-safe, AI-powered full-stack application
